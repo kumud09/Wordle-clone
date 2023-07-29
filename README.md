@@ -1,2 +1,1 @@
-# Wordle-clone
-A web-based word puzzle game , user-friendly interface, and various difficulties
+The Wordle Clone project is a web-based word puzzle game inspired by Wordle, using HTML, CSS, and JavaScript. Players guess a secret five-letter word with limited attempts, receiving feedback on correct letters and positions. It features a user-friendly interface. The goal is to entertain and challenge players while showcasing web development skills.
